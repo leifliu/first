@@ -1,0 +1,2 @@
+#!/user/local/bin bash
+echo "haha"
